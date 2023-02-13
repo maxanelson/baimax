@@ -1,0 +1,29 @@
+body {
+    font-family: helvetica;
+    margin: 20px auto;
+    max-width: 600px;
+}
+
+.brandbtn {
+    background-color: rgb(127, 150, 255);
+    border: 1px solid rgb(127, 150, 255);
+    border-radius: 5px; 
+    font-weight: bold;
+    color: #ffff;
+    cursor: pointer;
+    display: inline-block;
+    padding: 10px 20px;
+    text-decoration: none;
+
+}
+
+.brndbtn:hover {
+    background-color: #fff;
+    border: 1px solid rgb(127, 150, 255);
+    color: #333;
+}
+
+img{
+    max-width: 600px;
+    width: 100%
+}
